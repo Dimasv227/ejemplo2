@@ -6,5 +6,10 @@ public class principal {
 		System.out.println("safda");
 		System.out.println("asf");
 		System.out.println("dgsge");
+		
+		
+		System.out.println("safda");
+		System.out.println("asf");
+		System.out.println("dgsge");
 	}
 }
